@@ -1,0 +1,92 @@
+SE 319
+
+*Server and Client Terms and Definitions*
+
+- Server
+
+	Program that provides SERVICES (i.e. useful functionality). Typically, keeps running forever.
+		Typically, the computer that runs the server program is called a server. Many server programs can be running on a single computer.
+	
+	Examples of services:
+		Database services
+		Runs a website
+
+- Client
+
+	Program that connects to a SERVER computer - and then to a program that provides services and USES those services
+
+- MAC ID - IP Address - Hostname
+
+	MAC ID is a unique ID that is HARD-CODED on every computer (or internet capable device)
+		Already there when you buy the device
+		Used by lower protocols to uniquely identify a device
+		Example c8:bc:c8:9b:c4:0f
+	
+	IP ADDRESS is an address assigned to computers connected to the internet
+		Typically assigned when connecting to the internet
+		Example 129.186.252.23
+		
+	Unlike IP address, HOSTNAME is a human-readable address, like https://www.google.com/
+	Servers typically have hostnames
+	
+- DNS, Localhost
+
+	DNS (Domain Name Server) - is like a phone book.
+		Maps Hostnames to IP addresses (many to one)
+		When you want to connect to website by typing in hostname, computer will find IP address via DNS
+		
+	Localhost - each computer can use the hostname localhost to refer to itself
+	
+- Port
+
+	This is a number that refers to a specific process running on a computer
+	Many port numbers are reserved:
+		80: http
+		23: telnet
+		22: ssh
+		110: pop3 (for email delivery)
+	You will be able to create ports from only 1024 onwards
+	Once a port is being used by a server, you cannot use that same port for other programs
+	Multiple clients can talk to a server through that port
+	
+- Socket
+
+	A socket contains connection information between two computers
+	Local Address:
+		Local computer's IP address
+		Local program's port number
+	Remote Address:
+		Remote computer's IP address
+		Remote program's port number
+	Protocol:
+		Means the 'language' or 'rules' that the two computers will use to communicate
+		Typically this is TCP/IP protocol
+
+- Demonstration
+	
+	Telnet is disabled on most servers for security reasons
+	Server @ CS Dep ISU
+		To login to pyrite, you muse use the Secure Shell (ssh)
+		ssh <ISU NetID>@pyrite.cs.iastate.edu
+		Ctrl-d usually allows you to exit the ssh session normally (logout)
+	Condo Cluster @ ISU (High-performance computing cluster)
+		ssh <ISU NetID>@condo2017.its.iastate.edu
+	Can access above features via bash script
+	
+*Web Server and Clients*
+
+- Web server and client, HTTP request
+
+	Web-client and Web-server communicates using HTTP protocol
+		Client can send a HTTP request: method 'get' or 'post'
+		Server can send a HTTP request and product HTTP response
+	Server side programs should be capable of reading HTTP request and producing HTTP response
+	Command: GET request-URI HTTP-version
+
+- Demonstration
+
+	HTML
+	DOM (Document Object Model): An application programming interface (API) for HTML
+		It defines the logical structure of documents and the way a document is accessed and manipulated
+		https://www.w3schools.com/ for tutorials
+		HTML, DOM, etc. in Safari/Chrome
