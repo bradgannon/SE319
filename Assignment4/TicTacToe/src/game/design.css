@@ -1,0 +1,40 @@
+/*
+ * This is the CSS formatting for the Tic-Tac-Toe.java file. It basically lays out fonts, colors, sizes, etc. for the board
+ * @author Brad Gannon 
+ */
+
+.root {
+  -fx-background-color: indigo;
+  -fx-padding: 30px;
+  -fx-font-size: 20px;
+  -fx-font-family: "Times New Roman";
+}
+
+.info {
+  -fx-text-fill: white;
+}
+
+.button {
+  -fx-base: steelblue;
+}
+
+.game-controls {
+  -fx-spacing: 20px;
+  -fx-alignment: center;
+}
+
+.status-indicator {
+  -fx-alignment: center;
+  -fx-padding: 16px;
+}
+
+.board {
+  -fx-background-color: black;
+  -fx-hgap: 10px;
+  -fx-vgap: 10px;
+}
+
+.square {
+  -fx-padding: 10px;
+  -fx-background-color: white;
+}

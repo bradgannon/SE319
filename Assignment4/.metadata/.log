@@ -1,0 +1,710 @@
+!SESSION 2019-03-07 13:08:10.675 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 0 2019-03-07 13:08:31.809
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-03-07 13:08:31.809
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-03-07 13:08:32.614
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-03-07 13:08:32.622
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 13:08:38.723
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-07 13:30:26.228 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/bgannon/Spring2019/SE319/Assignment4/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 13:30:36.526
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-07 13:44:19.803 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 13:44:31.707
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-07 14:23:40.709 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 14:23:51.971
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-07 15:24:19.083 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 15:24:30.689
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-07 15:36:26.357 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 15:37:00.172
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-07 15:46:37.826 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 15:46:59.278
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-07 16:20:34.465 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 16:20:50.242
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2019-03-07 16:32:06.864
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package game;
+
+/**
+ * TicTacToe game using JavaFX and utilizing CSS for design components.
+ * @author Brad Gannon
+ * @date 3/7/2019
+ */
+
+import javafx.application.Application;
+import javafx.beans.binding.Bindings;
+import javafx.beans.property.*;
+import javafx.beans.value.*;
+import javafx.event.*;
+import javafx.scene.Node;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
+import javafx.scene.control.*;
+import javafx.scene.image.*;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.*;
+import javafx.stage.Stage;
+
+import java.util.*;
+
+public class TicTacToe extends Application {
+	@Override
+	public void start(Stage stage) throws Exception {
+		GameSet gameManager = new GameSet();
+
+		Scene scene = gameManager.getGameScene();
+		scene.getStylesheets().add(getResource("design.css"));
+
+		stage.setTitle("SE 319 Tic-Tac-Toe");
+		stage.getIcons().add(SquareSkin.crossImage);
+		stage.setScene(scene);
+		stage.show();
+	}
+
+	private String getResource(String resourceName) {
+		return getClass().getResource(resourceName).toExternalForm();
+	}
+
+	public static void main(String[] args) {
+		Application.launch(TicTacToe.class);
+	}
+}
+
+class GameSet {
+	private Scene gameScene;
+	private Game game;
+
+	GameSet() {
+		newGame();
+	}
+
+	public void newGame() {
+		game = new Game(this);
+
+		if (gameScene == null) {
+			gameScene = new Scene(game.getSkin());
+		} else {
+			gameScene.setRoot(game.getSkin());
+		}
+	}
+
+	public void quit() {
+		gameScene.getWindow().hide();
+	}
+
+	public Game getGame() {
+		return game;
+	}
+
+	public Scene getGameScene() {
+		return gameScene;
+	}
+}
+
+class GameControls extends HBox {
+	GameControls(final GameSet gameManager, final Game game) {
+		getStyleClass().add("game-controls");
+
+		visibleProperty().bind(game.gameOverProperty());
+
+		Label playAgainLabel = new Label("Play Again?");
+		playAgainLabel.getStyleClass().add("info");
+
+		Button playAgainButton = new Button("Yes");
+		playAgainButton.getStyleClass().add("play-again");
+		playAgainButton.setDefaultButton(true);
+		playAgainButton.setOnAction(new EventHandler<ActionEvent>() {
+			@Override
+			public void handle(ActionEvent actionEvent) {
+				gameManager.newGame();
+			}
+		});
+
+		Button exitButton = new Button("No");
+		playAgainButton.getStyleClass().add("exit");
+		exitButton.setCancelButton(true);
+		exitButton.setOnAction(new EventHandler<ActionEvent>() {
+			@Override
+			public void handle(ActionEvent actionEvent) {
+				gameManager.quit();
+			}
+		});
+
+		getChildren().setAll(playAgainLabel, playAgainButton, exitButton);
+	}
+}
+
+class StatusIndicator extends HBox {
+	private final ImageView playerToken = new ImageView();
+	private final Label playerLabel = new Label("Current Player: ");
+
+	StatusIndicator(Game game) {
+		getStyleClass().add("status-indicator");
+
+		bindIndicatorFieldsToGame(game);
+
+		playerToken.setFitHeight(32);
+		playerToken.setPreserveRatio(true);
+
+		playerLabel.getStyleClass().add("info");
+
+		getChildren().addAll(playerLabel, playerToken);
+	}
+
+	private void bindIndicatorFieldsToGame(Game game) {
+		playerToken.imageProperty()
+				.bind(Bindings.when(game.currentPlayerProperty().isEqualTo(Square.State.O))
+						.then(SquareSkin.noughtImage)
+						.otherwise(Bindings.when(game.currentPlayerProperty().isEqualTo(Square.State.X))
+								.then(SquareSkin.crossImage).otherwise((Image) null)));
+
+		playerLabel.textProperty()
+				.bind(Bindings.when(game.gameOverProperty().not()).then("Current Player: ")
+						.otherwise(Bindings.when(game.winnerProperty().isEqualTo(Square.State.EMPTY)).then("Draw")
+								.otherwise("Winning Player: ")));
+	}
+}
+
+class Game {
+	private GameSkin skin;
+	private Board board = new Board(this);
+	private WinningStrategy winningStrategy = new WinningStrategy(board);
+
+	private ReadOnlyObjectWrapper<Square.State> currentPlayer = new ReadOnlyObjectWrapper<>(Square.State.X);
+
+	public ReadOnlyObjectProperty<Square.State> currentPlayerProperty() {
+		return currentPlayer.getReadOnlyProperty();
+	}
+
+	public Square.State getCurrentPlayer() {
+		return currentPlayer.get();
+	}
+
+	private ReadOnlyObjectWrapper<Square.State> winner = new ReadOnlyObjectWrapper<>(Square.State.EMPTY);
+
+	public ReadOnlyObjectProperty<Square.State> winnerProperty() {
+		return winner.getReadOnlyProperty();
+	}
+
+	private ReadOnlyBooleanWrapper drawn = new ReadOnlyBooleanWrapper(false);
+
+	public ReadOnlyBooleanProperty drawnProperty() {
+		return drawn.getReadOnlyProperty();
+	}
+
+	public boolean isDrawn() {
+		return drawn.get();
+	}
+
+	private ReadOnlyBooleanWrapper gameOver = new ReadOnlyBooleanWrapper(false);
+
+	public ReadOnlyBooleanProperty gameOverProperty() {
+		return gameOver.getReadOnlyProperty();
+	}
+
+	public boolean isGameOver() {
+		return gameOver.get();
+	}
+
+	public Game(GameSet gameManager) {
+		gameOver.bind(winnerProperty().isNotEqualTo(Square.State.EMPTY).or(drawnProperty()));
+
+		skin = new GameSkin(gameManager, this);
+	}
+
+	public Board getBoard() {
+		return board;
+	}
+
+	public void nextTurn() {
+		if (isGameOver())
+			return;
+
+		switch (currentPlayer.get()) {
+		case EMPTY:
+		case O:
+			currentPlayer.set(Square.State.X);
+			break;
+		case X:
+			currentPlayer.set(Square.State.O);
+			break;
+		}
+	}
+
+	private void checkForWinner() {
+		winner.set(winningStrategy.getWinner());
+		drawn.set(winningStrategy.isDrawn());
+
+		if (isDrawn()) {
+			currentPlayer.set(Square.State.EMPTY);
+		}
+	}
+
+	public void boardUpdated() {
+		checkForWinner();
+	}
+
+	public Parent getSkin() {
+		return skin;
+	}
+}
+
+class GameSkin extends VBox {
+	GameSkin(GameSet gameManager, Game game) {
+		getChildren().addAll(game.getBoard().getSkin(), new StatusIndicator(game), new GameControls(gameManager, game));
+	}
+}
+
+class WinningStrategy {
+	private final Board board;
+
+	private static final int O_WON = 3;
+	private static final int X_WON = 30;
+
+	private static final Map<Square.State, Integer> values = new HashMap<>();
+	static {
+		values.put(Square.State.EMPTY, 0);
+		values.put(Square.State.O, 1);
+		values.put(Square.State.X, 10);
+	}
+
+	public WinningStrategy(Board board) {
+		this.board = board;
+	}
+
+	public Square.State getWinner() {
+		for (int i = 0; i < 3; i++) {
+			int score = 0;
+			for (int j = 0; j < 3; j++) {
+				score += valueOf(i, j);
+			}
+			if (isWinning(score)) {
+				return winner(score);
+			}
+		}
+
+		for (int i = 0; i < 3; i++) {
+			int score = 0;
+			for (int j = 0; j < 3; j++) {
+				score += valueOf(j, i);
+			}
+			if (isWinning(score)) {
+				return winner(score);
+			}
+		}
+
+		int score = 0;
+		score += valueOf(0, 0);
+		score += valueOf(1, 1);
+		score += valueOf(2, 2);
+		if (isWinning(score)) {
+			return winner(score);
+		}
+
+		score = 0;
+		score += valueOf(2, 0);
+		score += valueOf(1, 1);
+		score += valueOf(0, 2);
+		if (isWinning(score)) {
+			return winner(score);
+		}
+
+		return Square.State.EMPTY;
+	}
+
+	public boolean isDrawn() {
+		for (int i = 0; i < 3; i++) {
+			for (int j = 0; j < 3; j++) {
+				if (board.getSquare(i, j).getState() == Square.State.EMPTY) {
+					return false;
+				}
+			}
+		}
+
+		return getWinner() == Square.State.EMPTY;
+	}
+
+	private Integer valueOf(int i, int j) {
+		return values.get(board.getSquare(i, j).getState());
+	}
+
+	private boolean isWinning(int score) {
+		return score == O_WON || score == X_WON;
+	}
+
+	private Square.State winner(int score) {
+		if (score == O_WON)
+			return Square.State.O;
+		if (score == X_WON)
+			return Square.State.X;
+
+		return Square.State.EMPTY;
+	}
+}
+
+class Board {
+	private final BoardSkin skin;
+
+	private final Square[][] squares = new Square[3][3];
+
+	public Board(Game game) {
+		for (int i = 0; i < 3; i++) {
+			for (int j = 0; j < 3; j++) {
+				squares[i][j] = new Square(game);
+			}
+		}
+
+		skin = new BoardSkin(this);
+	}
+
+	public Square getSquare(int i, int j) {
+		return squares[i][j];
+	}
+
+	public Node getSkin() {
+		return skin;
+	}
+}
+
+class BoardSkin extends GridPane {
+	BoardSkin(Board board) {
+		getStyleClass().add("board");
+
+		for (int i = 0; i < 3; i++) {
+			for (int j = 0; j < 3; j++) {
+				add(board.getSquare(i, j).getSkin(), i, j);
+			}
+		}
+	}
+}
+
+class Square {
+	enum State {
+		EMPTY, , CROSS
+	}
+
+	private final SquareSkin skin;
+
+	private ReadOnlyObjectWrapper<State> state = new ReadOnlyObjectWrapper<>(State.EMPTY);
+
+	public ReadOnlyObjectProperty<State> stateProperty() {
+		return state.getReadOnlyProperty();
+	}
+
+	public State getState() {
+		return state.get();
+	}
+
+	private final Game game;
+
+	public Square(Game game) {
+		this.game = game;
+
+		skin = new SquareSkin(this);
+	}
+
+	public void pressed() {
+		if (!game.isGameOver() && state.get() == State.EMPTY) {
+			state.set(game.getCurrentPlayer());
+			game.boardUpdated();
+			game.nextTurn();
+		}
+	}
+
+	public Node getSkin() {
+		return skin;
+	}
+}
+
+class SquareSkin extends StackPane {
+	static final Image noughtImage = new Image(
+			"file:o.jpg");
+	static final Image crossImage = new Image(
+			"file:x.jpg");
+
+	private final ImageView imageView = new ImageView();
+
+	SquareSkin(final Square square) {
+    getStyleClass().add("square");
+
+    imageView.setMouseTransparent(true);
+    
+    getChildren().setAll(imageView);
+    setPrefSize(150, 150);
+
+    setOnMousePressed(new EventHandler<MouseEvent>() {
+      @Override public void handle(MouseEvent mouseEvent) {
+        square.pressed();
+      }
+    });
+
+    square.stateProperty().addListener(new ChangeListener<Square.State>() {
+      @Override public void changed(ObservableValue<? extends Square.State> observableValue, Square.State oldState, Square.State state) {
+        switch (state) {
+          case EMPTY:  
+        	  imageView.setImage(null);        
+        	  break;
+          case NOUGHT: 
+        	  imageView.setImage(noughtImage); 
+        	  imageView.setFitHeight(125);
+        	  imageView.setFitWidth(125);
+        	  break;
+          case CROSS:  
+        	  imageView.setImage(crossImage); 
+        	  imageView.setFitHeight(125);
+        	  imageView.setFitWidth(125);
+        	  break;
+        }
+      }
+    });
+  }
+}
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java:2949)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToFieldDeclaration(ASTConverter.java:3298)
+	at org.eclipse.jdt.core.dom.ASTConverter.checkAndAddMultipleFieldDeclaration(ASTConverter.java:447)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:197)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3036)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1393)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:367)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:202)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1145)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:736)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:802)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1322)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:92)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2019-03-07 16:32:06.867
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java:2949)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToFieldDeclaration(ASTConverter.java:3298)
+	at org.eclipse.jdt.core.dom.ASTConverter.checkAndAddMultipleFieldDeclaration(ASTConverter.java:447)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:197)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3036)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1393)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:367)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:202)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1145)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:736)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:802)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1322)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:92)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2019-03-07 16:32:06.867
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java:2949)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToFieldDeclaration(ASTConverter.java:3298)
+	at org.eclipse.jdt.core.dom.ASTConverter.checkAndAddMultipleFieldDeclaration(ASTConverter.java:447)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:197)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3036)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1393)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:367)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:202)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:268)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1145)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:736)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:802)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1322)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:92)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+!SESSION 2019-03-07 17:19:45.158 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 17:19:57.014
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-07 18:42:06.844 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-07 18:42:58.149
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-08 11:06:34.065 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-08 11:06:48.580
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-10 11:40:16.448 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-10 11:40:31.599
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bradg'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

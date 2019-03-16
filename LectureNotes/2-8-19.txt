@@ -1,0 +1,45 @@
+EVENT-DRIVEN PROGRAMMING
+
+Client-Side Dynamics (1)
+
+	HTML + JavaScript
+	HTML elements: forms
+	HTML style elements: fonts, headings, breaks
+	CSS: uniformly manipulate styles
+	JavaScript:
+		manipulate styles (CSS)
+		manipulate HTML elements
+		validate user data
+		communicate with the server-side programs
+
+Client-Side Dynamics (2)
+
+	HTML elements: View
+	CSS: Model
+	JavaScript: Controller
+	
+NODE.JS
+
+	Open-source, cross-platfrm JavaScript runtime environment that executes JavaScript code server-side
+		Historically JavaScript used for client-side programming
+	"JavaScript Everywhere" paradigm
+		Unifying web application development
+		Same language for server-side and client-side scripts
+	
+Why Node.js?
+	
+	Non-blocking I/O
+	V8 JavaScript engine
+		V8 is Google's open-source high-performance JavaScript engine, written in C++ nd used in Node.js
+	Single thread with event loop
+	40,025 modules: JavaScript libraries you can include in your project
+	Different platforms: Windows, Linux, Mac, etc.
+	1 language for frontend and backend
+	
+Event-driven Programming - Node.js (2)
+
+	Event-driven architecture
+		Asynchronous I/O
+		Scalability with any input/output operations
+		Real-time Web applications
+			e.g., real-time communication programs, browser games and data streaming, etc.			
